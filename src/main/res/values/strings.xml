@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppDesign</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="profession">
+        <item>User ID</item>
+        <item>Lecturer</item>
+        <item>Student</item>
+    </string-array>
+
+    <string-array name="school">
+        <item>School</item>
+        <item>FUPRE</item>
+        <item>DELSU</item>
+        <item>UNILAG</item>
+        <item>OAU</item>
+        <item>FUTA</item>
+    </string-array>
+</resources>
